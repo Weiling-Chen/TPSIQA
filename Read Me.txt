@@ -1,0 +1,7 @@
+
+
+1) Please cite the paper: 
+
+W. Chen, K. Gu, T. Zhao, G. Jiang and P. L. Callet, "Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception," in IEEE Transactions on Multimedia, vol. 23, pp. 1008-1020, 2021, doi: 10.1109/TMM.2020.2991546.
+
+2) If any question, please contact me through weiling.chen@fzu.edu.cn
